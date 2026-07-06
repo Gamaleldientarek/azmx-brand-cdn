@@ -1,0 +1,9 @@
+/* AZMX brand webfonts — upload this whole folder to your site, e.g.
+   https://handbook.azmx.sa/fonts/   (keep file names unchanged) */
+@font-face { font-family:'Thmanyah Serif Display'; src:url('serif-regular.woff2') format('woff2'); font-weight:400; font-display:swap; }
+@font-face { font-family:'Thmanyah Serif Display'; src:url('serif-medium.woff2')  format('woff2'); font-weight:500; font-display:swap; }
+@font-face { font-family:'Thmanyah Serif Display'; src:url('serif-bold.woff2')    format('woff2'); font-weight:700; font-display:swap; }
+@font-face { font-family:'Azm X'; src:url('sans-regular.woff2')  format('woff2'); font-weight:400; font-display:swap; }
+@font-face { font-family:'Azm X'; src:url('sans-medium.woff2')   format('woff2'); font-weight:500; font-display:swap; }
+@font-face { font-family:'Azm X'; src:url('sans-semibold.woff2') format('woff2'); font-weight:600; font-display:swap; }
+@font-face { font-family:'Azm X'; src:url('sans-bold.woff2')     format('woff2'); font-weight:700; font-display:swap; }
